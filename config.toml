@@ -1,0 +1,4 @@
+baseURL = "https://idcardsfree400.vercel.app"
+languageCode = "en-us"
+title = "Vote ID Card Download"
+theme = "tale-hugo-master"
